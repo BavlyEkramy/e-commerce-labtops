@@ -79,7 +79,8 @@ nav {
     height: calc(100vh - 75px);
     right: 0;
     top: 0;
-    background-color: rgb(218, 218, 255);
+    background-color:  rgb(232, 241, 255);
+
     color: black;
     top: 75px;
     overflow-y: scroll;
