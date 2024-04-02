@@ -1,0 +1,233 @@
+[
+  {
+    "id": 1,
+    "name": "MacBook Pro 16-inch",
+    "type": "Mac",
+    "image": [
+      "https://i.ibb.co/KsHm43t/1-1.jpg",
+      "https://i.ibb.co/DD4pnhp/1-2.jpg"
+    ],
+    "price": 2399,
+    "description": "The MacBook Pro 16-inch is a powerful and professional laptop designed for demanding tasks. It features a stunning Retina display, an immersive audio system, and a robust Intel processor. With its sleek design and impressive performance, it's the perfect choice for creative professionals and power users."
+  },
+  {
+    "id": 16,
+    "name": "ThinkPad X12 Detachable",
+    "type": "Lenovo",
+    "image": [
+      "https://i.ibb.co/XJtL1Ft/16-1-removebg-preview.png",
+      "https://i.ibb.co/RybJtW9/16-2.jpg"
+    ],
+    "price": 1599,
+    "description": "The ThinkPad X12 Detachable is a versatile 2-in-1 laptop designed for productivity on the go. It features a detachable tablet with a stylus, a high-resolution display, and a comfortable keyboard. With its portable design and flexible usage modes, the X12 Detachable is an excellent choice for professionals who need the convenience of a tablet and the functionality of a laptop."
+  },
+  {
+    "id": 17,
+    "name": "HP Spectre x360",
+    "type": "HP",
+    "image": [
+      "https://i.ibb.co/cy4btjz/17-1.jpg",
+      "https://i.ibb.co/vz3vs1B/17-2.jpg"
+    ],
+    "price": 1299,
+    "description": "The HP Spectre x360 is a premium 2-in-1 laptop that combines style, performance, and versatility. It features a sleek and elegant design, a vibrant display, and powerful hardware. With its convertible form factor and long battery life, the Spectre x360 offers a seamless transition between laptop and tablet modes, making it perfect for both work and entertainment."
+  },
+  {
+    "id": 3,
+    "name": "MacBook Pro 13-inch",
+    "type": "Mac",
+    "image": [
+      "https://i.ibb.co/yWgVMTW/3-1.jpg",
+      "https://i.ibb.co/59h3RmT/3-2.jpg"
+    ],
+    "price": 1299,
+    "description": "The MacBook Pro 13-inch is a versatile and powerful laptop suitable for both professional and personal use. It features a stunning Retina display, enhanced performance, and a comfortable keyboard. Whether you're editing videos, coding, or browsing the web, the MacBook Pro 13-inch delivers an exceptional experience."
+  },
+  {
+    "id": 13,
+    "name": "ThinkPad X1 Carbon",
+    "type": "Lenovo",
+    "image": [
+      "https://i.ibb.co/JvcMdr2/13-1.jpg",
+      "https://i.ibb.co/khNMVKT/13-2.jpg"
+    ],
+    "price": 1599,
+    "description": "The ThinkPad X1 Carbon is a premium business laptop known for its durability and performance. It features a high-resolution display, a comfortable keyboard, and robust security features. With its lightweight design and long battery life, the X1 Carbon is the perfect companion for professionals on the go."
+  },
+  {
+    "id": 14,
+    "name": "ThinkPad X1 Yoga",
+    "type": "Lenovo",
+    "image": [
+      "https://i.ibb.co/Ln4j9nx/14-1.jpg",
+      "https://i.ibb.co/z5rgbft/14-2.jpg"
+    ],
+    "price": 1899,
+    "description": "The ThinkPad X1 Yoga is a versatile 2-in-1 laptop that offers excellent performance and flexibility. It features a high-resolution touch display, a convertible design, and a stylus for precise input. With its robust build quality and impressive features, the X1 Yoga is ideal for professionals who need a device that adapts to their workflow."
+  },
+  {
+    "id": 6,
+    "name": "Mac Mini",
+    "type": "Mac",
+    "image": [
+      "https://i.ibb.co/YhZxMnW/6-1.jpg",
+      "https://i.ibb.co/Hgkn8vP/6-2.jpg"
+    ],
+    "price": 699,
+    "description": "The Mac Mini is a compact and versatile desktop computer that packs a punch. It offers a powerful performance with its Intel processor and ample storage options. Whether you're using it as a home entertainment system or a workstation, the Mac Mini delivers impressive performance in a small form factor."
+  },
+  {
+    "id": 7,
+    "name": "MSI GS66 Stealth",
+    "type": "MSI",
+    "image": [
+      "https://i.ibb.co/3sSvqxQ/7-1.jpg",
+      "https://i.ibb.co/BsHVFww/7-2.jpg"
+    ],
+    "price": 1999,
+    "description": "The MSI GS66 Stealth is a high-performance gaming laptop that combines power and style. It features a sleek design, a fast refresh rate display, and top-of-the-line hardware components. With its powerful graphics card and advanced cooling system, the GS66 Stealth delivers an immersive gaming experience."
+  },
+  {
+    "id": 21,
+    "name": "HP ProBook 450 G8",
+    "type": "HP",
+    "image": [
+      "https://i.ibb.co/XZvpW5N/21-1.jpg",
+      "https://i.ibb.co/bQGSQ8C/21-2.jpg"
+    ],
+    "price": 899,
+    "description": "The HP ProBook 450 G8 is a reliable and secure business laptop that offers excellent performance and durability. It features a high-quality display, a comfortable keyboard, and advanced security features. With its robust build quality and business-focused features, the ProBook 450 G8 is an ideal choice for professionals who require a dependable device for their work."
+  },
+  {
+    "id": 2,
+    "name": "MacBook Air",
+    "type": "Mac",
+    "image": [
+      "https://i.ibb.co/m9GPDfF/2-1.jpg",
+      "https://i.ibb.co/RvzzxtV/2-2.jpg"
+    ],
+    "price": 999,
+    "description": "The MacBook Air is a lightweight and portable laptop that excels in everyday tasks. It offers a brilliant Retina display, a comfortable keyboard, and long battery life. With its thin and light design, it's perfect for students and frequent travelers who value portability without compromising performance."
+  },
+  {
+    "id": 10,
+    "name": "MSI GS75 Stealth",
+    "type": "MSI",
+    "image": [
+      "https://i.ibb.co/gPHynh2/10-1.jpg",
+      "https://i.ibb.co/D7wY44g/10-2.jpg"
+    ],
+    "price": 2499,
+    "description": "The MSI GS75 Stealth is a high-performance gaming laptop with a sleek and lightweight design. It features a large display with a high refresh rate, a powerful processor, and a top-of-the-line graphics card. With its excellent performance and portability, the GS75 Stealth provides an immersive gaming experience on the go."
+  },
+  {
+    "id": 11,
+    "name": "MSI GL65 Leopard",
+    "type": "MSI",
+    "image": [
+      "https://i.ibb.co/99FdT4W/11-1.jpg",
+      "https://i.ibb.co/k6qScf4/11-2.jpg"
+    ],
+    "price": 1399,
+    "description": "The MSI GL65 Leopard is a budget-friendly gaming laptop that doesn't compromise on performance. It features a decent display, a powerful processor, and a dedicated graphics card. With its gaming-centric features and affordable price, the GL65 Leopard is a great choice for casual gamers and those on a budget."
+  },
+  {
+    "id": 12,
+    "name": "MSI GF63 Thin",
+    "type": "MSI",
+    "image": [
+      "https://i.ibb.co/NgBvsDL/12-1.jpg",
+      "https://i.ibb.co/Dg0972H/12-2.jpg"
+    ],
+    "price": 899,
+    "description": "The MSI GF63 Thin is a sleek and lightweight gaming laptop designed for those who value portability. It features a compact design, a decent display, and a capable graphics card. With its slim profile and affordable price point, the GF63 Thin is an excellent choice for gamers on the move."
+  },
+  {
+    "id": 15,
+    "name": "ThinkPad T14s",
+    "type": "Lenovo",
+    "image": [
+      "https://i.ibb.co/C6LDZT1/15-1.jpg",
+      "https://i.ibb.co/FVVH3SH/15-2.png"
+    ],
+    "price": 1299,
+    "description": "The ThinkPad T14s is a reliable and powerful laptop that delivers exceptional performance. It features a high-quality display, a comfortable keyboard, and enhanced security features. With its solid build quality and impressive performance, the T14s is well-suited for professionals who require a dependable device for their work."
+  },
+  {
+    "id": 4,
+    "name": "iMac",
+    "type": "Mac",
+    "image": [
+      "https://i.ibb.co/n3h0Bjm/4-1.jpg",
+      "https://i.ibb.co/8m4DQfc/4-2.jpg"
+    ],
+    "price": 1299,
+    "description": "The iMac is a sleek and all-in-one desktop computer that combines power and elegance. It offers a vibrant Retina display, powerful processors, and a range of connectivity options. Whether you're working on creative projects or enjoying multimedia content, the iMac provides a seamless and immersive experience."
+  },
+  {
+    "id": 5,
+    "name": "MacBook",
+    "type": "Mac",
+    "image": [
+      "https://i.ibb.co/mbxbm0J/5-1.jpg",
+      "https://i.ibb.co/mz0W1tY/5-2.jpg"
+    ],
+    "price": 1199,
+    "description": "The MacBook is a compact and stylish laptop designed for everyday use. It features a Retina display, responsive keyboard, and a reliable performance. With its lightweight design and long battery life, the MacBook is ideal for users who need a portable and efficient device for their daily tasks."
+  },
+  {
+    "id": 18,
+    "name": "HP Envy x360",
+    "type": "HP",
+    "image": [
+      "https://i.ibb.co/PQ0f5zW/18-1.png",
+      "https://i.ibb.co/z8mwm2t/18-2.jpg"
+    ],
+    "price": 999,
+    "description": "The HP Envy x360 is a versatile 2-in-1 laptop that combines performance and affordability. It features a responsive touchscreen, a solid build quality, and a comfortable keyboard. With its convertible design and powerful hardware, the Envy x360 is a great choice for users who need a device that can adapt to their needs."
+  },
+  {
+    "id": 19,
+    "name": "HP Pavilion 15",
+    "type": "HP",
+    "image": [
+      "https://i.ibb.co/r2tZY1Q/19-1.jpg",
+      "https://i.ibb.co/H2XHryK/19-2.jpg"
+    ],
+    "price": 799,
+    "description": "The HP Pavilion 15 is a reliable and affordable laptop that offers a balance of performance and value. It features a decent display, a comfortable keyboard, and ample storage space. With its affordable price tag and reliable performance, the Pavilion 15 is suitable for everyday tasks and casual use."
+  },
+  {
+    "id": 8,
+    "name": "MSI GE75 Raider",
+    "type": "MSI",
+    "image": [
+      "https://i.ibb.co/K5Vb8Jc/8-1.jpg",
+      "https://i.ibb.co/KKkD5w9/8-2.jpg"
+    ],
+    "price": 2199,
+    "description": "The MSI GE75 Raider is a gaming laptop that offers a perfect balance between performance and portability. It features a large display with high refresh rates, a powerful processor, and a robust graphics card. With its gaming-focused features and durable build quality, the GE75 Raider is a reliable companion for gaming enthusiasts."
+  },
+  {
+    "id": 9,
+    "name": "MSI Prestige 15",
+    "type": "MSI",
+    "image": [
+      "https://i.ibb.co/P9rhT18/9-1.jpg",
+      "https://i.ibb.co/yq12G3L/9-2.jpg"
+    ],
+    "price": 1499,
+    "description": "The MSI Prestige 15 is a sleek and powerful laptop designed for content creators and professionals. It features a high-resolution display, a powerful processor, and a dedicated graphics card. With its slim design and long battery life, the Prestige 15 is an excellent choice for those who need a portable workstation."
+  },
+  {
+    "id": 20,
+    "name": "HP Omen 15",
+    "type": "HP",
+    "image": [
+      "https://i.ibb.co/0q31r01/20-1.jpg",
+      "https://i.ibb.co/72NWcx7/20-2.jpg"
+    ],
+    "price": 1499,
+    "description": "The HP Omen 15 is a gaming laptop designed for gamers who demand high performance. It features a high-refresh-rate display, a powerful processor, and a dedicated graphics card. With its aggressive design and powerful hardware, the Omen 15 delivers an immersive gaming experience for avid gamers."
+  }
+]

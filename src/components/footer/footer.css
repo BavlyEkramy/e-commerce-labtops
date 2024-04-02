@@ -1,0 +1,15 @@
+footer {
+  background-color: #31363b;
+}
+footer img {
+  width: 100px;
+  height: 100px;
+  cursor: pointer;
+}
+footer a {
+  color: rgb(117, 117, 117);
+  cursor: pointer;
+}
+footer a:hover {
+  color: white;
+}

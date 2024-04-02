@@ -1,0 +1,58 @@
+.bg-contact {
+  background-color: #3a3f4b;
+}
+
+.input-sp {
+  position: relative;
+  margin: 20px 0 40px;
+}
+
+.input-sp input,
+.input-sp textarea {
+  background-color: transparent;
+  border: 0;
+  border: 2px white solid;
+  display: block;
+  width: 100%;
+  padding: 15px 1rem;
+  font-size: 20px;
+  color: white;
+  background: transparent;
+  border-radius: 10px;
+  resize: none;
+  transition: 0.3s;
+}
+.input-sp input:focus,
+.input-sp textarea:focus {
+  outline: 0;
+  border-bottom-color: white;
+}
+.input-sp textarea {
+  height: 200px;
+}
+.input-sp label {
+  position: absolute;
+  top: 15px;
+  left: 0;
+  pointer-events: none;
+  margin-left: 1rem;
+}
+
+.input-sp label span {
+  display: inline-block;
+  font-size: 1.4rem;
+  min-width: 5px;
+  color: white;
+  transition: 0.4s cubic-bezier(0.4, 0.3, 0.84, 1.35);
+  margin-right: 0.1rem;
+}
+
+.input-sp input:focus + label span,
+.input-sp textarea:focus + label span,
+.Not-empty + label span {
+  color: white;
+  transform: translateY(-55px);
+}
+input[type="submit"]:hover {
+  opacity: 0.9;
+}
